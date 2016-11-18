@@ -4,7 +4,7 @@
  <title>Kalkulator sederhana dengan php</title>
 </head>
 <body>
-<h1>Kalkulator sederhana dengan php</h1>
+<h1>Kalkulator sederhana dengan bahasa pemrograman php</h1>
 <form action="kalkulator.php" method="POST">
  <table cellpadding="4">
   <tr>
